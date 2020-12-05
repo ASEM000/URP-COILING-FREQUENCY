@@ -1,5 +1,5 @@
 # URP COILING FREQUENCY
- Image processing component for analysis of jet impinging on density interface
+ Image processing component for analysis of jet impinging  density interface
 
 ## Main functionalities
 ### 1. GUI to get the appropriate parameters for jet extraction
